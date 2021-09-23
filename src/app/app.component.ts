@@ -15,7 +15,7 @@ export class AppComponent implements OnInit {
    //   ngoninit   /////
   ngOnInit(){
     console.log('hello ');
-    var data=2//data is 2
+    var data=2
 
 
 
