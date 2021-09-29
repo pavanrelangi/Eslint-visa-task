@@ -20,26 +20,61 @@ Run `ng lint` to run the errors of Eslint.
 
 Run `ng lint--fix` to Fix the Errors in Eslint Automatically.
 
-links
 
-  [Visit Website](https://
-  techwave.net/ "TECHWAVE")
+## Setup
+To run this project, install it locally using npm:
 
-  Images
+```
 
-  ![TECHWAVE Mascot](https://upload.wikimedia.org/wikipedia/commons/8/8a/Techwave_logo.jpg "TECHWAVE")
+$ ng lint
+$ npm start
+$ ng  serve
 
-  TABLES
+```
+---
+Type-1 Heading 
+
+# header H1
+## header H2
+### header H3
+#### header H4
+##### header H5
+###### header H6
+---
+Type-2 Heading with bold
+
+**--Heading--**
+
+## Hyper Link
+[Techwave.net](https://techwave.net/ "TECHWAVE")
+
+## Image
+
+![TECHWAVE ](https://upload.wikimedia.org/wikipedia/commons/8/8a/Techwave_logo.jpg)
+
+## TABLES
   
-|ID ||NAMES||ROLES| 
-|---|| --- || --- |
-|1  ||Pavan|| UI  |
-
->List
+|Sno|Name|Role|
+|---|---|---|
+|1|pavan|Angular|
+|2|Jai|Java|
+|3|kalyan|Aws|
+|4|Ramu|.Net|
+**List**
+>List order
 ---
 1. Html
 2. css
 3. Bootstrap
 4. javascript
 - Angular
+- Java
+- Sql
+- Aws
 ----
+
+**Types of text styles**
+
+'Itallics': _Techwave_
+
+'Bold': **Techwave**
