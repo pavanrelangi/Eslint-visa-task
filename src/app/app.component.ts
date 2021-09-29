@@ -8,14 +8,14 @@ import { Component, OnInit } from '@angular/core';
 
 export class AppComponent implements OnInit {
   title='eslint';
-  data=`haiii`
-  doublesemicol="check";;
+  data='haiii'
+  doublesemicol='check';;
 
-   colors = [ "red",, "blue" ];
+   colors = [ 'red',, 'blue' ];
    //   ngoninit   /////
-  ngOnInit(){
-    console.log('hello ');
-    var data=2
+   ngOnInit(){
+     console.log('hello ');
+     let data=2
 
 
 
@@ -30,5 +30,5 @@ export class AppComponent implements OnInit {
 
 
 
-  }
+   }
 }
